@@ -124,5 +124,5 @@ func main() {
 	}*/
 
 	//c.Update(bson.M{"_id": id}, bson.M{"$set": bson.M{"name": "new Name"}}
-
+fmt.Println("asdad")
 }
